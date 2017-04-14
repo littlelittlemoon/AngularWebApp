@@ -1,0 +1,25 @@
+{
+  "name": "webapp",
+  "description": "my angularjs webapp",
+  "main": "",
+  "keywords": [
+    "angular",
+    "webapp"
+  ],
+  "authors": [
+    "littlemeemoon"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "ui-router#^0.4.2"
+  }
+}
